@@ -2,9 +2,9 @@ body {background-image: url(background.png);background-repeat:repeat-x; font-fam
   h1 {font-family: "Comic Sans MS";font-size: 60px;color: darkblue;text-align: center;}
   h4 {text-align: right;font-style: italic;text-align: center;}
   p {text-align: justify;}
-  #fadlanfadhlurrahman {color: rgb(159, 187, 211);}
+  #fadlanfadhlurrahman {color:red;}
   #paragraf1 {color: orange;text-align: center;}
   #paragraf2 {text-align: right;}
-  a:hover {color: red !important;}
+  a:hover {color: blue !important;}
   .tautan:hover {color: white !important;background-color: blue;}
   h3 {text-align: center;}
