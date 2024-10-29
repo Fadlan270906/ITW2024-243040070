@@ -1,8 +1,8 @@
-body {background-color: aqua;background-image: url(background.png);font-family: Georgia, "Times New Roman", Times, serif;}
+body {background-image: url(background.png);background-repeat:repeat-x; font-family:  Georgia, "Times New Roman", Times, serif;}
   h1 {font-family: "Comic Sans MS";font-size: 60px;color: darkblue;text-align: center;}
   h4 {text-align: right;font-style: italic;text-align: center;}
   p {text-align: justify;}
-  #fadlanfadhlurrahman {color: aliceblue;}
+  #fadlanfadhlurrahman {color: rgb(159, 187, 211);}
   #paragraf1 {color: orange;text-align: center;}
   #paragraf2 {text-align: right;}
   a:hover {color: red !important;}
