@@ -5,6 +5,6 @@ body {background-image: url(background.png);background-repeat:repeat-x; font-fam
   #fadlanfadhlurrahman {color:red;}
   #paragraf1 {color: orange;text-align: center;}
   #paragraf2 {text-align: right;}
-  a:hover {color: blue !important;}
+  a:hover {color: blue!important;}
   .tautan:hover {color: white !important;background-color: blue;}
   h3 {text-align: center;}
